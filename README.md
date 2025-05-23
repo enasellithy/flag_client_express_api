@@ -1,3 +1,14 @@
+## Requirements
+- node atlast 16
+
+## installation
+- git clone git@github.com:enasellithy/flag_client_express_api.git
+- cd flag_client_express_api
+- npm install
+- node server.js 
+
+some follows for api request
+
 POST /flags HTTP/1.1
 Host: localhost:3000
 Content-Type: application/json
